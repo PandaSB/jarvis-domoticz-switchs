@@ -6,3 +6,11 @@
 # jv for JarVis
 # pg for PluGin
 # XX can be a two letters code for your plugin, ex: ww for Weather Wunderground
+jv_pg_ds_command_on () {
+    # Code to switch on 
+}
+
+jv_pg_ds_command_off () {
+    # Code to switch ff
+}
+
