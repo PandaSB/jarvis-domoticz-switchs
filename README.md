@@ -19,4 +19,4 @@ Jarvis: output from Jarvis
 ```
 
 ## Author
-[your name](http://your.website)
+[BARTHELEMY Stéphane](http://www.sbarthelemy.com)
